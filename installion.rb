@@ -3,6 +3,6 @@ require 'formula'
 class Installion < GithubGistFormula
   url 'https://raw.github.com/suderman/installion/master/installion'
   homepage 'https://github.com/suderman/installion'
-  md5 'e78fd22771cfc5f2677616b5ff11c3ea'
+  md5 '20ff3e5b4f69788be6965b3830dae015'
   version '0.4'
 end
