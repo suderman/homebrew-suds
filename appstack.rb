@@ -3,6 +3,6 @@ require 'formula'
 class Appstack < GithubGistFormula
   url 'https://raw.github.com/suderman/appstack/master/appstack'
   homepage 'https://github.com/suderman/appstack'
-  md5 '9d7e7f56b40ecc8104ba240c262d8552'
-  version '0.1'
+  md5 '8397c1144b8c275c26108dd02e40caf5'
+  version '0.2'
 end
